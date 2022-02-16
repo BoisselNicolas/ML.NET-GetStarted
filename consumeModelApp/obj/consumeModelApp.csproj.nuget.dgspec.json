@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nicolas/Dev/ML/myMLApp/consumeModelApp/consumeModelApp.csproj": {}
+    "/home/nicolas/Dev/ML/ReviewSentiment/consumeModelApp/consumeModelApp.csproj": {}
   },
   "projects": {
-    "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
+    "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
+        "projectUniqueName": "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
         "projectName": "SampleClassification.Model",
-        "projectPath": "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
+        "projectPath": "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj",
         "packagesPath": "/home/nicolas/.nuget/packages/",
-        "outputPath": "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/",
+        "outputPath": "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nicolas/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/home/nicolas/Dev/ML/myMLApp/consumeModelApp/consumeModelApp.csproj": {
+    "/home/nicolas/Dev/ML/ReviewSentiment/consumeModelApp/consumeModelApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nicolas/Dev/ML/myMLApp/consumeModelApp/consumeModelApp.csproj",
+        "projectUniqueName": "/home/nicolas/Dev/ML/ReviewSentiment/consumeModelApp/consumeModelApp.csproj",
         "projectName": "consumeModelApp",
-        "projectPath": "/home/nicolas/Dev/ML/myMLApp/consumeModelApp/consumeModelApp.csproj",
+        "projectPath": "/home/nicolas/Dev/ML/ReviewSentiment/consumeModelApp/consumeModelApp.csproj",
         "packagesPath": "/home/nicolas/.nuget/packages/",
-        "outputPath": "/home/nicolas/Dev/ML/myMLApp/consumeModelApp/obj/",
+        "outputPath": "/home/nicolas/Dev/ML/ReviewSentiment/consumeModelApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nicolas/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
-                "projectPath": "/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj"
+              "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj": {
+                "projectPath": "/home/nicolas/Dev/ML/ReviewSentiment/SampleClassification/SampleClassification.Model/SampleClassification.Model.csproj"
               }
             }
           }
