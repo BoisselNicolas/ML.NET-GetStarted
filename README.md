@@ -14,9 +14,9 @@ https://dotnet.microsoft.com/en-us/learn/ml-dotnet/get-started-tutorial/intro
 
 ## Scénario 
 
-Une application qui permet de connaître le sentiments d'un retour client. ( Positif - Négatif )
+Une application qui permet de connaître le sentiment d'un retour client. ( Positif - Négatif )
 </br>
-Algrithme de classification
+<b>Algrithme :</b> classification
 
 ## Installation
 
