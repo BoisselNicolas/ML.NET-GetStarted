@@ -1,0 +1,11 @@
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/MLModel.zip
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.deps.json
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.dll
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.pdb
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.AssemblyReference.cache
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfoInputs.cache
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfo.cs
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.CoreCompileInputs.cache
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.dll
+/home/nicolas/Dev/ML/myMLApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.pdb
